@@ -40,4 +40,6 @@ h2 {
 .main1 p {
     text-align: center;
     font-size: 25px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
