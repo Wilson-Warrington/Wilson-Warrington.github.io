@@ -39,27 +39,6 @@ header h1 {
 .maintext p {
   text-align: center;
   font-size: 35px;
-  padding-left: 45px;
-  padding-right: 45px;
-}
-
-.what-im-working-on button {
-    background-color: #000000;
-    background-image: linear-gradient(to top, #0f66d2 0%, #0660c6 100%);
-    background-size: 100%;
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    cursor: pointer;
-    position: absolute;
-    font-size: 2em;
-    left: 25%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    color: #000000;
-    font-weight: bold;
-    border-radius: 20px;
-    box-shadow: 5px 5px 5px grey;
 }
 
 .contact button {
@@ -79,11 +58,44 @@ header h1 {
     font-weight: bold;
     border-radius: 20px;
     box-shadow: 5px 5px 5px grey;
+    top: 45px;
+}
+
+.home button {
+    background-color: #000000;
+    background-image: linear-gradient(to top, #0f66d2 0%, #0660c6 100%);
+    background-size: 100%;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    cursor: pointer;
+    position: absolute;
+    font-size: 2em;
+    left: 25%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    color: #000000;
+    font-weight: bold;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    top: 45px;
 }
 
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 100%;
   }
+
+.fpswebsite p {
+    text-align: center;
+    padding-left: 45px;
+    padding-right: 45px;
+    font-size: 35px;
+}
+
+.fpswebsite p a {
+  color: #1DA1F2;
+  font-weight: bold;
+  text-decoration: none;
+}
