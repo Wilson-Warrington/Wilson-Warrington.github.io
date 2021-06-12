@@ -39,11 +39,9 @@ header h1 {
 .maintext p {
   text-align: center;
   font-size: 35px;
-  padding-left: 45px;
-  padding-right: 45px;
 }
 
-.what-im-working-on button {
+.home button {
     background-color: #000000;
     background-image: linear-gradient(to top, #0f66d2 0%, #0660c6 100%);
     background-size: 100%;
@@ -63,7 +61,7 @@ header h1 {
     top: 45px;
 }
 
-.contact button {
+.what-im-working-on button {
     background-color: #000000;
     background-image: linear-gradient(to top, #0f66d2 0%, #0660c6 100%);
     background-size: 100%;
@@ -83,15 +81,9 @@ header h1 {
     top: 45px;
 }
 
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 100%;
-  }
-
-.maintext p a {
-  color: #1DA1F2;
-  font-weight: bold;
-  text-decoration: none;
+.text p {
+    text-align: center;
+    padding-left: 45px;
+    padding-right: 45px;
+    font-size: 40px;
 }
