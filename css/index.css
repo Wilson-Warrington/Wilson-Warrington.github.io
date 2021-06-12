@@ -40,25 +40,6 @@ header h1 {
   text-align: center;
   font-size: 35px;
 }
- 
-.about-button button {
-    background-color: #000000;
-    background-image: linear-gradient(to top, #0f66d2 0%, #0660c6 100%);
-    background-size: 100%;
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    cursor: pointer;
-    position: absolute;
-    font-size: 2em;
-    left: 25%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    color: #000000;
-    font-weight: bold;
-    border-radius: 20px;
-    box-shadow: 5px 5px 5px grey;
-}
 
 .what-im-working-on button {
     background-color: #000000;
@@ -70,7 +51,7 @@ header h1 {
     cursor: pointer;
     position: absolute;
     font-size: 2em;
-    left: 50%;
+    left: 25%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     color: #000000;
