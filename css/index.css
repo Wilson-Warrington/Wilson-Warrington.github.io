@@ -39,3 +39,8 @@ header h1 {
     border-radius: 10px;
     float: left;
 }
+
+p {
+    text-align: center;
+    font-size: 24px;
+}
