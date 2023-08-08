@@ -22,11 +22,14 @@ header h1 {
     font-weight: bolder;
 }
 
-.navbar a:hover,
+.navbar a:hover {
+    background-color: #5b5b5b;
+}
 .navbar {
     overflow: hidden;
     background-color: #1f1f1f;
     box-shadow: 5px 5px 5px rgb(31, 31, 31);
+    border-radius: 20px;
 }
   
 /* Links inside the navbar */
