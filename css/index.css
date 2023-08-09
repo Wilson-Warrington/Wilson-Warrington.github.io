@@ -9,7 +9,7 @@ body {
     padding: 0;
 }
   
-header h1 {
+h1 {
     font-family: "Kumbh Sans", sans-serif;
     font-size: 6em;
     background-image: linear-gradient(to top, #417dff 0%, #d3371c 100%);
@@ -46,4 +46,11 @@ header h1 {
 p {
     text-align: center;
     font-size: 24px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
 }
